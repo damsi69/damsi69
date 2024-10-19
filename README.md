@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Damsiha</h1>
+<h1 align="center">Hi, I'm Damsiha</h1>
 <h3 align="center">I'm working towards becoming a full-stack developer and continuously learning new technologies to enhance my skills.</h3>
 
 - 🌱 I’m currently learning **Bootstrap, React, OOP.**
