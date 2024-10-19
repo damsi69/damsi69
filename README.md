@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **Bootstrap, React, OOP.**
 
-- 🎓 I’m an undergraduate **at IIT Sri Lanka (UOW).**
+- 🎓 I’m an undergraduate at **IIT Sri Lanka (UOW).**
 
 - 📫 How to reach me **damsihak@gmail.com**
-
-- ⚡ Fun fact **When I'm not coding, I love to watch movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
