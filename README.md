@@ -22,12 +22,6 @@
 &nbsp;
 ---
 
-| ![Damsiha's github stats](https://github-readme-stats.vercel.app/api?username=damsi69&show_icons=true&theme=tokyonight) | ![Damsiha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=damsi69&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damsi69&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=damsi69&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/damsihak" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="damsihak" height="40" width="40" /></a>
